@@ -1,0 +1,256 @@
+TAdvancedCalculator
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/AdvancedCalculatorViewController.xib
+c000000004DA175EC000000000000BCCC
+t1302427116
+s48332
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/AdvancedCalculator_Prefix.pch
+c000000004DA0B1FF00000000000000CD
+t1302376959
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorAppDelegate.h
+c000000004DA0B1FF0000000000000220
+t1302376959
+s544
+i<UIKit/UIKit.h>
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorAppDelegate.m
+c000000004DA0B1FF0000000000000ACB
+t1302376959
+s2763
+i"AdvancedCalculatorAppDelegate.h"
+i"AdvancedCalculatorViewController.h"
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorViewController.h
+c000000004DA0B1FF000000000000010E
+t1302376959
+s270
+i<UIKit/UIKit.h>
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorViewController.m
+c000000004DA0B1FF00000000000005EC
+t1302376959
+s1516
+i"AdvancedCalculatorViewController.h"
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/CalculatorBrain.h
+c000000004DA1761700000000000000F3
+t1302427159
+s243
+i<Foundation/Foundation.h>
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/CalculatorBrain.m
+c000000004DA1754D00000000000000DE
+t1302426957
+s222
+i"CalculatorBrain.h"
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/MainWindow.xib
+c000000004DA0B1FF0000000000004EAD
+t1302376959
+s20141
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/AdvancedCalculator
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/AdvancedCalculator.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/AdvancedCalculatorAppDelegate.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/AdvancedCalculatorViewController.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/CalculatorBrain.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/AdvancedCalculator
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/AdvancedCalculator.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/AdvancedCalculatorAppDelegate.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/AdvancedCalculatorViewController.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/CalculatorBrain.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app.dSYM
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/AdvancedCalculator
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/AdvancedCalculatorViewController.nib
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/Info.plist
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/MainWindow.nib
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/PkgInfo
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/ResourceRules.plist
+t2
+s0
+
+N/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/main.m
+c000000004DA0B1FF0000000000000173
+t1302376959
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/hp/hpj2HaQOH-W+zXZy9TNN3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedCalculator_Prefix-fdnyjbelbsglkwcpjrvwmirdfbat/AdvancedCalculator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/hp/hpj2HaQOH-W+zXZy9TNN3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedCalculator_Prefix-gsopbanduzcuylaaihoqspqrfhqg/AdvancedCalculator_Prefix.pch.gch
+t2
+s0
+
+NAdvancedCalculator-Info.plist
+c000000004DA0B1FF000000000000038D
+t1302376959
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324119959#324119960#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain324119960#18446744073709551615#0#0(1@0"0(0#1#0"8604604832#0"0#
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/AdvancedCalculatorAppDelegate.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/AdvancedCalculatorViewController.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/CalculatorBrain.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/CalculatorBrain.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/main.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/AdvancedCalculatorAppDelegate.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/AdvancedCalculatorViewController.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/AdvancedCalculatorViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/CalculatorBrain.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/Classes/CalculatorBrain.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/main.o "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/AdvancedCalculatorViewController.xib"
+r0
+
+CCompileXIB "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/AdvancedCalculator.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/AdvancedCalculator" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app.dSYM" "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/AdvancedCalculator"
+r0
+
+CLd "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv6/AdvancedCalculator" normal armv6
+r0
+
+CLd "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/AdvancedCalculator.build/Debug-iphoneos/AdvancedCalculator.build/Objects-normal/armv7/AdvancedCalculator" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app/Info.plist" AdvancedCalculator-Info.plist
+r0
+
+CProcessPCH /var/folders/hp/hpj2HaQOH-W+zXZy9TNN3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedCalculator_Prefix-fdnyjbelbsglkwcpjrvwmirdfbat/AdvancedCalculator_Prefix.pch.gch AdvancedCalculator_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/hp/hpj2HaQOH-W+zXZy9TNN3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedCalculator_Prefix-gsopbanduzcuylaaihoqspqrfhqg/AdvancedCalculator_Prefix.pch.gch AdvancedCalculator_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/PriyaKalyan/Desktop/Appress iPhone/Projects/Stanford/AdvancedCalculator/build/Debug-iphoneos/AdvancedCalculator.app"
+r0
+
